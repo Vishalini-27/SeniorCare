@@ -1,1 +1,6 @@
+from F_heart_disease_model import heart_disease_model
+from hypertension_model import hypertension_model
+from my_parkinson_model import parkinson_disease_model
+from F_ASTHMA_disease_model import asthma_model
+from diabetes_model import diabetes_disease_model
 
